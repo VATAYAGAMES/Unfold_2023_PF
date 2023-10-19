@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{843DBBF3-4E54-2B3C-F3BA-E1A348D4C3B3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Unfold_2023_PF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
