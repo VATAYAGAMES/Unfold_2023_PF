@@ -8,7 +8,7 @@ public class Unfold_2023_PF : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HTTP", "Json", "ImageWrapper" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
